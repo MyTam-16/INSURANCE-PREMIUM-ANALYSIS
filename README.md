@@ -4,7 +4,7 @@
 An insurance firm wants to give their customers different premiums based on their nature of risk. Using algorithms to train the model and use the most optimal model to forecast premium. If we can do the same for historical data, then we can also estimate fees for new customers, just by asking for information like their age, gender, BMI, number of children, smoking habits and their region.
 # Data 
 The data set consists of 1338 entries including:
-##Age: Age of the customer in years (18-64). The mean age of the customer is
+## Age: Age of the customer in years (18-64). The mean age of the customer is
 39 years old.
 ● Sex: Gender of the customer (male/female)
 ● Bmi: Body mass index, providing an understanding of body, weight that are
